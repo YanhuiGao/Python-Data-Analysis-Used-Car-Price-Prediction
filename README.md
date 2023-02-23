@@ -8,7 +8,7 @@
 
 <img src="https://github.com/YanhuiGao/ThefirstLesson/blob/main/ppt03.jpg" width=100% />
 
-<img src="https://github.com/YanhuiGao/ThefirstLesson/blob/main/ppt03.jpg" width=100% />
+<img src="https://github.com/YanhuiGao/ThefirstLesson/blob/main/ppt04.jpg" width=100% />
 
 <img src="https://github.com/YanhuiGao/ThefirstLesson/blob/main/ppt05.jpg" width=100% />
 
